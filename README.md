@@ -9,7 +9,7 @@
     </table>
 
   </head>
-  <body>
+  <body style="background-color: #F5EEDC;">
 <h2>Academic Qualifications</h2>
 <table border="1">
   <tr>
